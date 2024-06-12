@@ -78,3 +78,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 # Trucs à rajouter pour que ça marche bien
 
 Pensez bien à ajouter la `MISTRAL_API_KEY` dans un fichier .env à la racine !
+
+Pareil pour `OPENAI_API_KEY`
